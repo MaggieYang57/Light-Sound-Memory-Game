@@ -45,8 +45,8 @@ Here's a walkthrough of implemented user stories:
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 
-   I used this resource to help clarify which frequencies to use for specific musical notes: https://gist.github.com/sahithyen/b20922c902620e5bd6fd926263a93836
-   Also used ezgif.com to edit my video and convert it into a .gif file.
+   I used this resource to help clarify which frequencies to use for specific musical notes: https://gist.github.com/sahithyen/b20922c902620e5bd6fd926263a93836<br />
+   I also used ezgif.com to edit my video and convert it into a .gif file.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
 
